@@ -376,8 +376,13 @@ changedColor {
     
   } */
   .hiddenFromDesktop {
+    z-index: 20;
+    /* background-color: red; */
     display: block;
-    /* width: 200px; */
+    /* padding-right: 200px; */
+    width: 200px;
+    position:relative;
+    margin-left: -20%;
   }
   .scrollbar {
     margin-left: 20px;
