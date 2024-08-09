@@ -178,7 +178,7 @@ body {
   position: relative;
   display: inline-block;
   margin: 0 auto;
-  width: calc(71vw - 100px);
+  width: calc(58vw - 100px);
   background-color: #1b1b1b;
   /* background-color: var(--backgroundColor); */
   color: #cbcbcb;
