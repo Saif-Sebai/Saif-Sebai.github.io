@@ -1,6 +1,7 @@
 let btnGroup = document.querySelector('.button-layout');
 let buttons = document.querySelectorAll('.button');
 let title = document.querySelector('h2');
+let subtitle = document.querySelector('h4');
 
 function splitText(textEl) {
   if(!textEl || !textEl.innerHTML) {
@@ -17,6 +18,7 @@ function splitText(textEl) {
 }
 
 splitText(title);
+splitText(subtitle);
 
 gsap.to(btnGroup, {
   opacity: 1, 
@@ -42,6 +44,15 @@ headingLetters.forEach((letter, i) => {
   });
 });
 
+
+let subheadingLetters = subtitle.querySelectorAll('span');
+subheadingLetters.forEach((letter, i) => {
+  gsap.to(letter, {
+    opacity: 1, 
+    delay: .75 + (.075 * i),
+    duration: .05
+  });
+});
 
 
 $('.Show').click(function() {
