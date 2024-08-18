@@ -3,6 +3,11 @@ let buttons = document.querySelectorAll('.button');
 let title = document.querySelector('h2');
 let subtitle = document.querySelector('h4');
 
+
+
+
+// THIS IS FOR TEXT GENERATION EFFECT
+
 function splitText(textEl) {
   if(!textEl || !textEl.innerHTML) {
     return
@@ -54,6 +59,9 @@ subheadingLetters.forEach((letter, i) => {
   });
 });
 
+// END OF TEXT GENERATION EFFECT
+
+
 
 $('.Show').click(function() {
   $('#target1').show(500);
@@ -71,8 +79,10 @@ $('.toggle').click(function() {
   $('#target1').toggle(400);
 });
 
-function toggle() {
+function togglee() {
   $('#target1').toggle(400);
+  // $('#CARDS_CLASS').toggle(400);
+  
   // toggleTheme()
 }
 
@@ -145,20 +155,39 @@ function toggleTheme() {
 
 }
 
+// THIS TO SHOW/HIDE STUFF
 
 
-function smartToggle() {
+
+// hide everything first
+$('#target2').hide();
+
+function smartToggle(target) {
+
+
   // MOBILE VERSION
 if (isMobile) {
   var buttonsDiv = document.getElementById("buttons");
   buttonsDiv.classList.toggle("hidden")
-  $('#target1').toggle(400);
+  document.getElementById(id).toggle(400);
     // console.log("The user is using a mobile device.");
 } else {
   // PC VERSION
-  $('#target1').toggle(400);
+  console.log("DIV ID: " +target );
+  // document.getElementById(target).classList.toggle(400);
+  for (let i = 0; i < 5; i++) {
+    targetNumber = target[target.length - 1];
+    if (targetNumber!=i) {
+      $("#target"+i).hide(200);
+    }
+  }
+  $("#"+target).toggle(400);
+  
+  
+  // $('#CARDS_CLASS').toggle(400);
   
     // console.log("The user is not using a mobile device.");
 }
 
 }
+

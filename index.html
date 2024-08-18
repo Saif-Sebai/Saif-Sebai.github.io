@@ -23,11 +23,11 @@
           <h2 id="name">SEIF SEBAI</h2> <h4>@sifu0nulls</h4>
       
           <div class="button-group">
-            <button type="button" class="button" onclick="smartToggle()">
+            <button type="button" class="button" onclick="smartToggle('target1')">
               <span class="button-label">About me</span>
             </button>
             
-            <button type="button" class="button">
+            <button type="button" class="button" onclick="smartToggle('target2')"">
               <span class="button-label">Projects</span>
             </button>
             
@@ -62,11 +62,21 @@
 <!-- <div class="scrollbox"> -->
 
 <div class="scrollbar" id="style-4">
+
+<!-- EXIT BUTTON FOR MOBILE -->
+<!-- <div class="force-overflow" id="exitButton"> -->
+<button type="button" class="hiddenFromDesktop button righty" onclick="smartToggle()">X</button>
+<!-- </div> -->
+
+
 <div class="force-overflow" id="target1">
 
 
 
-<button type="button" class="hiddenFromDesktop button righty" onclick="smartToggle()">X</button>
+
+
+
+
 
 <h1 class="gothic">About Me</h1>
 <div class="copy-box">
@@ -106,14 +116,14 @@
 <!-- ANYTHING HERE IS ALWAYS UP -->
 <!-- <link href="https://fonts.googleapis.com/css2?family=Playfair+Display rel="stylesheet"> -->
 
-<div class="CARDS_CLASS" id="CARDS_CLASS">
+<div class="target2" id="target2" >
 
  
-<a href="" class="cardLink">
+<!-- <a href="" class="cardLink">
 <div class="card_container">
     <div class="card">    
       <figure class="card__thumb">
-        <img src="glider.jpg" alt="Picture by Amber Kipp" class="card__image">
+        <img src="imgs/glider.jpg" alt="Picture by Amber Kipp" class="card__image">
         <figcaption class="card__caption">
           <h2 class="card__title">Conway's game of life</h2>
           <p class="card__snippet">In ac sem bibendum, posuere leo et, accumsan dolor. Sed lacinia aliquet tellus. Aliquam pellentesque vel diam sit amet euismod. Donec et sem et mi placerat malesuada. Nullam at pharetra elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas fringilla at justo sit amet tempus. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
@@ -121,26 +131,129 @@
         </figcaption>
       </figure>    
 	</div>
-</div>
-</a>
+</div> -->
 
+<!-- START OF CARD -->
+<a href="" class="cardLink">
+  <div class="card_container">
+    <div class="card">
+      <figure class="card__thumb">
+        <img src="imgs/glider.jpg" alt="Picture by Amber Kipp" class="card__image">
+        <figcaption class="card__caption">
+          <h2 class="card__title">Here's What Your Cat Actually Thinks Of You</h2>
+          
+          <p class="card__snippet"> 
+  
+  
+  
+            <!-- TAGS -->
+  
+            <div class="tags">
+            <a href="/tags/angular/">
+              <span class="tag">
+                dwjaiojdiawoj
+              </span>
+            </a>
+            <a href="/tags/angular/">
+              <span class="tag">
+                COOL STUFF
+              </span>
+            </a>
+            <a href="/tags/angular/">
+              <span class="tag">
+                NICE
+              </span>
+            </a>
+            <a href="/tags/angular/">
+              <span class="tag">
+                good
+              </span>
+            </a>
+            <a href="/tags/angular/">
+              <span class="tag">
+                dwjaiojdiawoj
+              </span>
+            </a>
+          </div>
+            <!-- SPACING -->
+            <br>
+            <br>
+            <!-- DESCRIPTION -->
+             TEXT
+          </p>
+          <p class="card__snippet">In ac sem bibendum, posuere leo et, accumsan dolor. Sed lacinia aliquet tellus. Aliquam pellentesque vel diam sit amet euismod. Donec et sem et mi placerat malesuada. Nullam at pharetra elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas fringilla at justo sit amet tempus. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+  
+          <a href="" class="card__button">Read more</a>
+        </figcaption>
+      </figure>
+    </div>
+  </div>
+  </a>
+  <!-- END OF CARD -->
+  
+<!-- START OF CARD -->
+<a href="" class="cardLink">
 <div class="card_container">
 	<div class="card">
 		<figure class="card__thumb">
-			<img src="glider.jpg" alt="Picture by Amber Kipp" class="card__image">
+			<img src="imgs/duck.png" alt="Picture by Amber Kipp" class="card__image">
 			<figcaption class="card__caption">
 				<h2 class="card__title">Here's What Your Cat Actually Thinks Of You</h2>
+        
+				<p class="card__snippet"> 
+
+
+
+          <!-- TAGS -->
+
+          <div class="tags">
+          <a href="/tags/angular/">
+            <span class="tag">
+              dwjaiojdiawoj
+            </span>
+          </a>
+          <a href="/tags/angular/">
+            <span class="tag">
+              COOL STUFF
+            </span>
+          </a>
+          <a href="/tags/angular/">
+            <span class="tag">
+              NICE
+            </span>
+          </a>
+          <a href="/tags/angular/">
+            <span class="tag">
+              good
+            </span>
+          </a>
+          <a href="/tags/angular/">
+            <span class="tag">
+              dwjaiojdiawoj
+            </span>
+          </a>
+        </div>
+          <!-- SPACING -->
+          <br>
+          <br>
+          <!-- DESCRIPTION -->
+           TEXT
+        </p>
 				<p class="card__snippet">In ac sem bibendum, posuere leo et, accumsan dolor. Sed lacinia aliquet tellus. Aliquam pellentesque vel diam sit amet euismod. Donec et sem et mi placerat malesuada. Nullam at pharetra elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas fringilla at justo sit amet tempus. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+
 				<a href="" class="card__button">Read more</a>
 			</figcaption>
 		</figure>
 	</div>
 </div>
+</a>
+<!-- END OF CARD -->
+
 
 <div class="card_container">
 	<div class="card">
 		<figure class="card__thumb">
-			<img src="glider.jpg" alt="Picture by Amber Kipp" class="card__image">
+			<img src="imgs/duck.png" alt="Picture by Amber Kipp" class="card__image">
 			<figcaption class="card__caption">
 				<h2 class="card__title">Here's What Your Cat Actually Thinks Of You</h2>
 				<p class="card__snippet">In ac sem bibendum, posuere leo et, accumsan dolor. Sed lacinia aliquet tellus. Aliquam pellentesque vel diam sit amet euismod. Donec et sem et mi placerat malesuada. Nullam at pharetra elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas fringilla at justo sit amet tempus. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
