@@ -178,10 +178,10 @@ if (isMobile) {
   for (let i = 0; i < 5; i++) {
     targetNumber = target[target.length - 1];
     if (targetNumber!=i) {
-      $("#target"+i).hide(200);
+      $("#target"+i).hide(100);
     }
   }
-  $("#"+target).toggle(400);
+  $("#"+target).toggle(300);
   
   
   // $('#CARDS_CLASS').toggle(400);
