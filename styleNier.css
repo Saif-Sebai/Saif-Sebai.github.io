@@ -13,6 +13,15 @@
 }
 
 
+
+#targer2{
+  opacity: 0;
+}
+
+
+
+
+
 body {
     overflow: hidden;
     height: 90%;
@@ -357,6 +366,7 @@ body {
     /* padding:5px; */
     display:none;
   }
+
   /* .Hide
   {
     display:none;

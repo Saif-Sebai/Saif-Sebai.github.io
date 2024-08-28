@@ -1,4 +1,8 @@
 .target2 {
+    display: none;
+    
+}
+.cardsFlex{
     display: flex;
     flex-wrap: wrap;
 }

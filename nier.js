@@ -5,6 +5,9 @@ let subtitle = document.querySelector('h4');
 
 
 
+// hide everything first
+// $('#target2').hide();
+
 
 // THIS IS FOR TEXT GENERATION EFFECT
 
@@ -158,9 +161,6 @@ function toggleTheme() {
 // THIS TO SHOW/HIDE STUFF
 
 
-
-// hide everything first
-$('#target2').hide();
 
 function smartToggle(target) {
 
