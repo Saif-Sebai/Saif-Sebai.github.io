@@ -11,6 +11,8 @@
     text-decoration: none;
 }
 .card_container {
+    width: 43.4%;
+    display: inline-flex;
     /* display: flex;
     align-items: center;
     gap: 18px;
