@@ -116,7 +116,7 @@
     <br><br>I do some 🔓 CyberSecurity research on the side too 👾 (mainly HackTheBox 📦 and TryHackMe 🐱‍💻 stuff )
     <br><br>
   </h5>
-  <img src="stark.gif">
+  <img id='starkImage' src="loading.gif">
 
 
 
@@ -159,7 +159,7 @@
   <br><br>And These fields not only fascinate me academically but also resonate with my desire to make a tangible impact in the ever-evolving world of technology.
   <br><br>As Each day, I immerse myself in understanding how these domains intersect and empower us to create innovative solutions that address pressing global challenges.</h5>
 
-<img src="engineer.gif">
+<img id="engineerImage" src="loading.gif">
 </div>
 
 
@@ -222,7 +222,7 @@
       <br><br>These classes are specifically designed to prepare students for the competitive entrance exams to prestigious engineering schools (Grandes Écoles).
       </h5>
 
-<img src="science.gif">
+<img id="scienceImage" src="loading.gif">
 
 
 
@@ -256,7 +256,7 @@
     <h5 style="font-size: 20px;">
       I also learned a lot in various other fields like chemistry along with valuable skillsets like problem-solving and logical reasoning..
     </h5>
-    <img src="scientist.gif" style="width: 400px;">
+    <img id="scientistImage" src="loading.gif" style="width: 400px;">
 
       <!-- <br><br>I do some 🔓 CyberSecurity research on the side too 👾 (mainly HackTheBox 📦 and TryHackMe 🐱‍💻 stuff ) -->
       <br><br>
@@ -457,7 +457,15 @@
 <!-- <script src="./js/animation.js"></script> -->
 <script src="nier.js"></script>
 
-
+<script>
+  $(function() {
+    $('#starkImage').attr('src','stark.gif');
+    $('#scienceImage').attr('src','science.gif');
+    $('#engineerImage').attr('src','engineer.gif');
+    $('#scientistImage').attr('src','scientist.gif');
+    
+});
+</script>
 
 
 </body>
