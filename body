@@ -1,0 +1,1775 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Name of your web site">
+<meta name="author" content="Seif Sebai">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>SEIF SEBAI</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="css/plugins.css" />
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<!--[if lt IE 9]> <script type="text/javascript" src="js/modernizr.custom.js"></script> <![endif]-->
+
+<link
+    rel="icon"
+    href="dragon.png"
+    type="image/x-icon"
+/>
+
+
+</head>
+
+
+
+<body>
+
+<div id="preloader">
+<div class="loader_line"></div>
+</div>
+
+
+<div class="bike_tm_all_wrap" data-magic-cursor="show">
+
+<div class="bike_tm_mobile_menu">
+<div class="mobile_menu_inner">
+<div class="mobile_in">
+<div class="logo" data-type="avatar"> 
+<div class="avatar" data-img-url="img/about/2.jpg"></div>
+<!-- <div class="image"><img src="img/logo/logo.png" alt /></div> -->
+<div class="text"><h3>bike</h3></div>
+</div>
+<div class="trigger">
+<div class="hamburger hamburger--slider">
+<div class="hamburger-box">
+<div class="hamburger-inner"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="dropdown">
+<div class="dropdown_inner">
+<ul class="anchor_nav">
+<li><a href="#home">Home</a></li>
+<li><a href="#about">About</a></li>
+<li><a href="#service">Service</a></li>
+<li><a href="#portfolio">Portfolio</a></li>
+<li><a href="#news">News</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+
+<div class="bike_tm_sidebar">
+<div class="logo" data-type="avatar"> 
+<div class="avatar" data-img-url="img/about/2.jpg"></div>
+<!-- <div class="image"><img src="img/logo/logo.png" alt /></div> -->
+<div class="text"><h3>bike</h3></div>
+</div>
+<div class="menu scrollable">
+<ul class="anchor_nav">
+<li class="current"><a href="#home">Home</a></li>
+<li><a href="#about">About</a></li>
+<li><a href="#service">Service</a></li>
+<li><a href="#portfolio">Portfolio</a></li>
+<li><a href="#news">News</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+</div>
+<div class="copyright">
+</div>
+<div class="bike_tm_resizer">
+<a href="#"><i class="icon-right-dir-2"></i></a>
+</div>
+</div>
+
+
+<div class="bike_tm_mainpart">
+
+<div class="bike_tm_section" id="home">
+<div class="bike_tm_hero">
+<div class="content">
+<h3 class="name">Seif Sebai</h3>
+<div class="animateText">
+<span>Cyber Security Professional</span>
+<span>AI & ML developer</span>
+<span>Cloud practitioner</span>
+</div>
+<div class="bike_tm_button" data-position="center">
+<a class="anchor" href="#contact"><span>Contact Me</span></a>
+
+
+
+
+</div>
+
+
+
+</div>
+<div class="socials">
+
+    <svg class="svg--source" width="0" height="0" aria-hidden="true">
+
+        <symbol id="svg--twitter" viewbox="0 -7 15 30">
+            <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/>
+          <!-- <path d="M15.36 3.434c-0.542 0.241-1.124 0.402-1.735 0.476 0.624-0.374 1.103-0.966 1.328-1.67-0.583 0.346-1.23 0.598-1.917 0.733-0.551-0.587-1.336-0.954-2.205-0.954-1.668 0-3.020 1.352-3.020 3.019 0 0.237 0.026 0.467 0.078 0.688-2.51-0.126-4.735-1.328-6.224-3.155-0.261 0.446-0.41 0.965-0.41 1.518 0 1.048 0.534 1.972 1.344 2.514-0.495-0.016-0.961-0.151-1.368-0.378 0 0.013 0 0.025 0 0.038 0 1.463 1.042 2.683 2.422 2.962-0.253 0.069-0.52 0.106-0.796 0.106-0.194 0-0.383-0.018-0.568-0.054 0.384 1.2 1.5 2.073 2.821 2.097-1.034 0.81-2.335 1.293-3.75 1.293-0.244 0-0.484-0.014-0.72-0.042 1.336 0.857 2.923 1.357 4.63 1.357 5.554 0 8.592-4.602 8.592-8.593 0-0.13-0.002-0.261-0.009-0.39 0.59-0.426 1.102-0.958 1.507-1.563z"/> -->
+        </symbol>
+      
+        <symbol id="svg--google" viewbox="-13 -13 72 72">
+            <!-- <path d="M72.16,99.73H9.927c-2.762,0-5,2.239-5,5v199.928c0,2.762,2.238,5,5,5H72.16c2.762,0,5-2.238,5-5V104.73 C77.16,101.969,74.922,99.73,72.16,99.73z"></path> <path id="XMLID_803_" d="M41.066,0.341C18.422,0.341,0,18.743,0,41.362C0,63.991,18.422,82.4,41.066,82.4 c22.626,0,41.033-18.41,41.033-41.038C82.1,18.743,63.692,0.341,41.066,0.341z"></path> <path id="XMLID_804_" d="M230.454,94.761c-24.995,0-43.472,10.745-54.679,22.954V104.73c0-2.761-2.238-5-5-5h-59.599 c-2.762,0-5,2.239-5,5v199.928c0,2.762,2.238,5,5,5h62.097c2.762,0,5-2.238,5-5v-98.918c0-33.333,9.054-46.319,32.29-46.319 c25.306,0,27.317,20.818,27.317,48.034v97.204c0,2.762,2.238,5,5,5H305c2.762,0,5-2.238,5-5V194.995 C310,145.43,300.549,94.761,230.454,94.761z"></path> </g> </g> -->
+            <!-- <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z"/> -->
+          <!-- <path d="M48,22h-5v-5h-4v5h-5v4h5v5h4v-5h5 M16,21v6.24h8.72c-0.67,3.76-3.93,6.5-8.72,6.5c-5.28,0-9.57-4.47-9.57-9.75 -->
+      <!-- s4.29-9.74,9.57-9.74c2.38,0,4.51,0.82,6.19,2.42v0.01l4.51-4.51C23.93,9.59,20.32,8,16,8C7.16,8,0,15.16,0,24s7.16,16,16,16 -->
+      <!-- c9.24,0,15.36-6.5,15.36-15.64c0-1.17-0.11-2.29-0.31-3.36C31.05,21,16,21,16,21z" /> -->
+
+        <svg fill="#000000" height="45px" width="45px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 310 310" xml:space="preserve">
+<g id="XMLID_801_">
+	<path id="XMLID_802_" d="M72.16,99.73H9.927c-2.762,0-5,2.239-5,5v199.928c0,2.762,2.238,5,5,5H72.16c2.762,0,5-2.238,5-5V104.73
+		C77.16,101.969,74.922,99.73,72.16,99.73z"/>
+	<path id="XMLID_803_" d="M41.066,0.341C18.422,0.341,0,18.743,0,41.362C0,63.991,18.422,82.4,41.066,82.4
+		c22.626,0,41.033-18.41,41.033-41.038C82.1,18.743,63.692,0.341,41.066,0.341z"/>
+	<path id="XMLID_804_" d="M230.454,94.761c-24.995,0-43.472,10.745-54.679,22.954V104.73c0-2.761-2.238-5-5-5h-59.599
+		c-2.762,0-5,2.239-5,5v199.928c0,2.762,2.238,5,5,5h62.097c2.762,0,5-2.238,5-5v-98.918c0-33.333,9.054-46.319,32.29-46.319
+		c25.306,0,27.317,20.818,27.317,48.034v97.204c0,2.762,2.238,5,5,5H305c2.762,0,5-2.238,5-5V194.995
+		C310,145.43,300.549,94.761,230.454,94.761z"/>
+</g>
+</svg>
+</symbol>
+
+
+        <symbol id="svg--facebook" viewbox="0 -7 16 30">
+          <path d="M12 3.303h-2.285c-0.27 0-0.572 0.355-0.572 0.831v1.65h2.857v2.352h-2.857v7.064h-2.698v-7.063h-2.446v-2.353h2.446v-1.384c0-1.985 1.378-3.6 3.269-3.6h2.286v2.503z" />
+        </symbol>
+      
+        <symbol id="svg--github" viewbox="-30 -30 150 150">
+          <path d="M61.896,52.548c-3.59,0-6.502,4.026-6.502,8.996c0,4.971,2.912,8.999,6.502,8.999
+              c3.588,0,6.498-4.028,6.498-8.999C68.395,56.574,65.484,52.548,61.896,52.548z M84.527,29.132c0.74-1.826,0.777-12.201-3.17-22.132
+              c0,0-9.057,0.993-22.76,10.396c-2.872-0.793-7.736-1.19-12.597-1.19s-9.723,0.396-12.598,1.189C19.699,7.993,10.645,7,10.645,7
+              c-3.948,9.931-3.913,20.306-3.172,22.132C2.834,34.169,0,40.218,0,48.483c0,35.932,29.809,36.508,37.334,36.508
+              c1.703,0,5.088,0.004,8.666,0.009c3.578-0.005,6.965-0.009,8.666-0.009C62.191,84.991,92,84.415,92,48.483
+              C92,40.218,89.166,34.169,84.527,29.132z M46.141,80.574H45.86c-18.859,0-33.545-2.252-33.545-20.58
+              c0-4.389,1.549-8.465,5.229-11.847c6.141-5.636,16.527-2.651,28.316-2.651c0.045,0,0.093-0.001,0.141-0.003
+              c0.049,0.002,0.096,0.003,0.141,0.003c11.789,0,22.178-2.984,28.316,2.651c3.68,3.382,5.229,7.458,5.229,11.847
+              C79.686,78.322,65,80.574,46.141,80.574z M30.104,52.548c-3.588,0-6.498,4.026-6.498,8.996c0,4.971,2.91,8.999,6.498,8.999
+              c3.592,0,6.502-4.028,6.502-8.999C36.605,56.574,33.695,52.548,30.104,52.548z" />
+        </symbol>
+      
+        <symbol height="180px" width="180px" id="svg--pinterest" viewbox="-100 -100 850 850">
+            <path d="M72.2009141,1.42108547e-14 C112.076502,1.42108547e-14 144.399375,32.5485469 144.399375,72.6964154 C144.399375,112.844284 112.074049,145.390378 72.2009141,145.390378 C32.327779,145.390378 0,112.844284 0,72.6964154 C0,32.5485469 32.325326,1.42108547e-14 72.2009141,1.42108547e-14 Z M187.500628,4.25836743 C207.438422,4.25836743 223.601085,34.8960455 223.601085,72.6964154 L223.603538,72.6964154 C223.603538,110.486973 207.440875,141.134463 187.503081,141.134463 C167.565287,141.134463 151.402624,110.486973 151.402624,72.6964154 C151.402624,34.9058574 167.562834,4.25836743 187.500628,4.25836743 Z M243.303393,11.3867175 C250.314,11.3867175 256,38.835526 256,72.6964154 C256,106.547493 250.316453,134.006113 243.303393,134.006113 C236.290333,134.006113 230.609239,106.554852 230.609239,72.6964154 C230.609239,38.837979 236.292786,11.3867175 243.303393,11.3867175 Z">
+
+            </path>
+          <!-- <path d="M430.149,135.248C416.865,39.125,321.076-9.818,218.873,1.642
+                      C138.071,10.701,57.512,76.03,54.168,169.447c-2.037,57.029,14.136,99.801,68.399,111.84
+                      c23.499-41.586-7.569-50.676-12.433-80.802C90.222,77.367,252.16-6.718,336.975,79.313c58.732,59.583,20.033,242.77-74.57,223.71
+                      c-90.621-18.179,44.383-164.005-27.937-192.611c-58.793-23.286-90.013,71.135-62.137,118.072
+                      c-16.355,80.711-51.557,156.709-37.3,257.909c46.207-33.561,61.802-97.734,74.57-164.704
+                      c23.225,14.136,35.659,28.758,65.268,31.038C384.064,361.207,445.136,243.713,430.149,135.248z" /> -->
+        </symbol>
+      
+        <symbol id="svg--youtube" viewbox="-150 -150 800 800">
+          <path d="M459,61.2C443.7,56.1,349.35,51,255,51c-94.35,0-188.7,5.1-204,10.2C10.2,73.95,0,163.2,0,255s10.2,181.05,51,193.8
+                  C66.3,453.9,160.65,459,255,459c94.35,0,188.7-5.1,204-10.2c40.8-12.75,51-102,51-193.8S499.8,73.95,459,61.2z M204,369.75v-229.5
+                  L357,255L204,369.75z" />
+        </symbol>
+      
+      </svg>
+      
+      <div class="wrapperForSocials">
+      <div class="connect">
+      
+        <a href="" class="share twitter">
+          <svg role="presentation" class="svg--icon">
+            <use xlink:href="#svg--twitter" />
+          </svg>
+          <span class="clip">TWITTER</span>
+        </a>
+      
+        <a href="" rel="author" class="share google">
+          <svg role="presentation" class="svg--icon">
+            <use xlink:href="#svg--google" />
+            <span class="clip">GOOGLE +</span>
+          </svg>
+        </a>
+      
+        <a href="" rel="author" class="share facebook">
+          <svg role="presentation" class="svg--icon">
+            <use xlink:href="#svg--facebook" />
+            <span class="clip">FACEBOOK</span>
+          </svg>
+        </a>
+      
+        <a href="" class="share github">
+          <svg role="presentation" class="svg--icon">
+            <use xlink:href="#svg--github" />
+            <span class="clip">GITHUB</span>
+          </svg>
+        </a>
+      
+        <a href="" class="share  pinterest">
+          <svg role="presentation" class="svg--icon">
+            <use xlink:href="#svg--pinterest" />
+            <span class="clip">PINTEREST</span>
+          </svg>
+        </a>
+      
+        <a href="" class="share  youtube">
+          <svg role="presentation" class="svg--icon">
+            <use xlink:href="#svg--youtube" />
+            <span class="clip">YOU-TUBE</span>
+          </svg>
+        </a>
+      
+      </div>
+      </div>
+
+
+
+</div>
+
+
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<div class="bike_tm_section" id="about">
+<div class="bike_tm_about">
+<div class="container">
+<div class="about_inner">
+<div class="left">
+<div class="image">
+<img src="img/thumbs/0.jpg" alt />
+<div class="main" data-img-url="img/about/1.jpg"></div>
+</div>
+</div>
+<div class="right">
+<div class="bike_tm_main_title">
+<span>About</span>
+<h3>Seif Sebai is a Computer Science student and Software Engineer based in Tunisia.</h3>
+</div>
+<div class="text">
+    <p>As a dedicated third and final-year Computer Science Engineering student at the National School of Computer Science
+        (ENSI) of Tunisia, I am passionate about leveraging technology to solve real-world problems.</p>
+</div>
+<div class="bike_tm_button" data-position="left">
+<a href="img/cv/1.jpg" download><span>Download CV</span></a>
+
+<div class="bike_tm_main_title ">
+    <br>
+    <h4>Emails:</h4><br>
+    <h5 class="line_effect_2">saif.sebai@ensi-uma.tn</h5>
+    <br>
+    <h5 class="line_effect_2">saif.sebai.ensi@gmail.com</h5>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="bike_tm_section">
+<div class="bike_tm_counter">
+<div class="background">
+<div class="image jarallax" data-speed="0"></div>
+<div class="overlay"></div>
+</div>
+<div class="container">
+<div class="content">
+<ul>
+<li>
+<div class="list_inner">
+<h3><span class="tm_counter" data-from="0" data-to="012" data-speed="1500">0</span></h3>
+<span class="title">Projects Completed</span>
+</div>
+</li>
+<li>
+<div class="list_inner">
+<h3><span class="tm_counter" data-from="0" data-to="200" data-speed="1500">0</span>+</h3>
+<span class="title">Mentored students</span>
+</div>
+</li>
+<li>
+<div class="list_inner">
+<h3><span class="tm_counter" data-from="0" data-to="45" data-speed="1500">0</span>K+</h3>
+<span class="title">Lines of Code</span>
+</div>
+</li>
+<li>
+<div class="list_inner">
+<h3><span class="tm_counter" data-from="0" data-to="100" data-speed="1500">0</span>%</h3>
+<span class="title">Code Coverage</span>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="bike_tm_section" id="service">
+<div class="bike_tm_services">
+<div class="container">
+<div class="bike_tm_main_title">
+<span>Knowledge</span>
+<h3>Fields I dived into</h3>
+</div>
+<div class="service_list">
+<ul>
+<li>
+<div class="list_inner">
+<div class="in">
+<span class="icon"><img class="svg" src="img/svg/good.svg" alt /></span>
+<h3 class="title">Cyber Security</h3>
+<p class="text">Enhancing skills through CTFs and contributing to open-source security tools to support the cybersecurity community...</p>
+</div>
+<a class="bike_tm_full_link" href="#"></a>
+
+<img class="popup_service_image" src="img/logo/cyber.jpeg" alt />
+<div class="service_hidden_details">
+<div class="service_popup_informations">
+<div class="descriptions">
+<!-- <p>In the field of cybersecurity, I actively engage in Capture the Flag (CTF) challenges to sharpen my skills and stay updated on the latest security vulnerabilities and exploits. These exercises help me enhance my problem-solving abilities and expand my knowledge in areas like reverse engineering, cryptography, and web application security. Additionally, I contribute to public tools and open-source projects, collaborating with the broader security community to develop and refine resources that improve the overall defense landscape. This hands-on experience continuously fuels my passion for securing systems and protecting digital environments.</p> -->
+<p>I’m actively immersed in the world of cybersecurity, especially through hands-on practice and constant learning. A big part of this comes from participating in Capture the Flag (CTF) competitions on platforms like TryHackMe and Hack The Box (HTB) (and CTFtime), where I regularly challenge myself to solve real-world problems. These platforms offer a wide range of scenarios, from exploiting web applications and bypassing security mechanisms to reverse engineering binaries and uncovering network vulnerabilities. Engaging in these challenges helps me stay sharp and pushes me to expand my expertise in a constantly evolving industry where new vulnerabilities and threats emerge daily.</p>
+<p>In addition to CTFs, I’ve got a few projects that I’ve worked on here and there, focusing on contributing to open-source security tools. By working on these projects, I’m able to not only refine my own skills but also collaborate with others in the cybersecurity community to improve or create resources that everyone can benefit from. Whether it’s improving existing tools or developing new solutions, contributing to open-source projects gives me a sense of accomplishment because it allows me to play a part in making the digital world a bit more secure.</p>
+<p>Being active on platforms like TryHackMe and HTB, and engaging in side projects, also keeps me connected to the community. It’s not just about learning and competing—it’s about staying informed on the latest techniques, tools, and security trends. The constant exchange of ideas and knowledge with other security professionals fuels my growth and passion for cybersecurity, allowing me to not only protect systems but also help others along the way.</p>
+
+
+</div>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class="list_inner">
+<div class="in">
+<span class="icon"><img class="svg" src="img/svg/ai.svg" alt /></span>
+<h3 class="title">Artificial Intelligence</h3>
+<p class="text">Exploring AI innovations through hands-on projects and community engagement...</p>
+</div>
+<a class="bike_tm_full_link" href="#"></a>
+
+<img class="popup_service_image" src="img/logo/AI.jpeg" alt />
+<div class="service_hidden_details">
+<div class="service_popup_informations">
+<div class="descriptions">
+<p>I’m actively involved in the world of AI, where I focus on both learning and hands-on experimentation to stay at the forefront of this rapidly evolving field. I regularly engage in various AI challenges, projects, and competitions to push the boundaries of my knowledge and skills. Whether it's building machine learning models, experimenting with neural networks, or exploring the latest advancements in natural language processing (NLP), I’m constantly working to deepen my understanding and tackle real-world problems with AI-driven solutions.</p>
+<p>Beyond personal learning, I also take on a few AI projects where I contribute to open-source initiatives and collaborative platforms. These projects often involve developing or refining AI algorithms, optimizing performance, or creating tools that help others in the AI community. By contributing to these initiatives, I’m able to give back to the community, while also gaining valuable insights from collaborating with fellow AI enthusiasts and professionals. It’s a rewarding way to stay connected to the pulse of the AI world while making a tangible impact through innovation and shared resources.</p>
+<p>Being active in AI doesn’t just mean working on projects—it’s also about staying informed on the latest trends, breakthroughs, and ethical considerations in the field. I regularly participate in forums, attend webinars, and engage in discussions around cutting-edge AI technologies, which helps me stay up to date with emerging trends and techniques. This involvement ensures that I’m continuously learning and evolving in the field of AI, while also contributing to the advancement of AI tools and solutions that can have a positive impact across industries.</p>
+
+
+</div>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class="list_inner">
+<div class="in">
+<span class="icon"><img class="svg" src="img/svg/cloud.svg" alt /></span>
+<h3 class="title">Cloud Computing <br> & DevOps</h3>
+<p class="text">Optimizing cloud infrastructures and automating workflows for efficient software delivery...</p>
+</div>
+<a class="bike_tm_full_link" href="#"></a>
+
+<img class="popup_service_image" src="img/logo/devops.png" alt />
+<div class="service_hidden_details">
+<div class="service_popup_informations">
+<div class="descriptions">
+    <p>I’m deeply engaged in the world of cloud computing and DevOps, where I focus on mastering both the technical and practical aspects of these fields. I’m constantly exploring cloud platforms like AWS, Azure, and Google Cloud, learning how to architect, deploy, and manage scalable and resilient cloud-based solutions. Whether it’s optimizing infrastructure or automating workflows, I’m always looking for ways to streamline processes and improve efficiency in cloud environments.</p> <p>On the DevOps side, I’m actively involved in learning and implementing the core principles of continuous integration and continuous delivery (CI/CD), infrastructure as code (IaC), and containerization using tools like Docker and Kubernetes. These practices help bridge the gap between development and operations, ensuring faster, more reliable software deployments. I’m also working on automating various aspects of the development pipeline, using tools like Jenkins, Ansible, and Terraform, to improve workflow efficiency and reduce human error in deployments.</p> <p>Beyond personal learning, I’ve taken on a few projects where I apply these skills to real-world scenarios, contributing to the development of DevOps pipelines and cloud infrastructure solutions. These projects allow me to collaborate with teams, solve complex problems, and refine my expertise in both cloud computing and DevOps practices. Staying active in this space helps me stay up to date with the latest technologies and best practices, allowing me to continuously improve my skills while contributing to more efficient, scalable, and secure infrastructures.</p> <p>Through this journey, I’m learning to manage and optimize cloud environments while also implementing DevOps strategies that streamline operations and improve collaboration between teams. This hands-on experience allows me to apply what I’ve learned in meaningful ways, whether it’s through automation, infrastructure management, or the continuous delivery of high-quality software.</p>
+
+</div>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class="list_inner">
+<div class="in">
+<span class="icon"><img class="svg" src="img/svg/mobile.svg" alt /></span>
+<h3 class="title">Mobile Development</h3>
+<p class="text">Creating responsive mobile apps and staying current with new technologies...</p>
+</div>
+<a class="bike_tm_full_link" href="#"></a>
+
+<img class="popup_service_image" src="img/logo/mobile.jpg" alt />
+<div class="service_hidden_details">
+<div class="service_popup_informations">
+<div class="descriptions">
+    <p>I’m actively exploring the field of mobile development, where I’m focused on both creating and optimizing applications for various platforms, including iOS and Android. I dive into different aspects of mobile development, from understanding the nuances of user experience (UX) design to implementing efficient and responsive user interfaces. My work involves using programming languages like Swift for iOS development and Kotlin or Java for Android, as well as leveraging cross-platform frameworks like Flutter and React Native to build applications that can run on multiple devices.</p> <p>As part of my learning process, I’m involved in various mobile development projects that range from personal apps to collaborative efforts with other developers. These projects give me the opportunity to apply my skills in real-world scenarios, tackle complex challenges, and refine my understanding of mobile architecture, performance optimization, and security best practices. By working on these projects, I’m also able to stay updated with the latest trends and technologies in mobile development, ensuring that my skills remain relevant and cutting-edge.</p> <p>Additionally, I actively engage with the mobile development community through forums, webinars, and conferences. This involvement helps me stay informed about new tools, frameworks, and best practices, while also allowing me to share knowledge and insights with fellow developers. By combining hands-on experience with continuous learning and community engagement, I’m working towards becoming a proficient and innovative mobile developer.</p>
+</div>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class="list_inner">
+<div class="in">
+<span class="icon"><img class="svg" src="img/svg/drone.svg" alt /></span>
+<h3 class="title">IoT Devices</h3>
+<p class="text">Designing smart devices and advancing connected solutions in the IoT space...</p>
+</div>
+<a class="bike_tm_full_link" href="#"></a>
+
+<img class="popup_service_image" src="img/logo/iot.jpg" alt />
+<div class="service_hidden_details">
+<div class="service_popup_informations">
+<div class="descriptions">
+    <p>I’m deeply engaged with the world of Internet of Things (IoT) devices, where I focus on designing, developing, and optimizing connected solutions. My work involves working with various sensors, microcontrollers, and communication protocols to create smart devices that can collect and exchange data seamlessly. I regularly experiment with hardware like the ESP32-WROOM-32 and RFID modules to build and prototype IoT applications, exploring how these devices can be integrated into larger systems for automation, monitoring, and data collection.</p> <p>In my IoT projects, I handle everything from programming and configuring devices to developing backend systems that process and analyze the data they generate. This includes setting up communication between devices using protocols such as MQTT, HTTP, or CoAP, and ensuring that the data flow is secure and efficient. I also work on creating user interfaces and dashboards to visualize and interact with the data, making sure that the solutions I develop are both functional and user-friendly.</p> <p>Beyond personal projects, I’m involved in the broader IoT community, participating in forums, attending industry events, and collaborating with other enthusiasts and professionals. This involvement helps me stay updated on the latest advancements in IoT technology, best practices, and emerging trends. By continuously learning and engaging with the community, I aim to enhance my skills and contribute to innovative IoT solutions that push the boundaries of what connected devices can achieve.</p>
+
+</div>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class="list_inner">
+<div class="in">
+<span class="icon"><img class="svg" src="img/svg/crypto.svg" alt /></span>
+<h3 class="title">Blockchain & Cryptocurrency</h3>
+<p class="text">Building and testing blockchain technologies and exploring cryptocurrency applications...</p>
+</div>
+<a class="bike_tm_full_link" href="#"></a>
+
+<img class="popup_service_image" src="img/logo/bitcoin.png" alt />
+<div class="service_hidden_details">
+<div class="service_popup_informations">
+<div class="descriptions">
+    <p>I’m actively involved in the world of blockchain and cryptocurrency, where I focus on understanding and applying the principles of decentralized technologies. My work involves exploring blockchain platforms like Ethereum and Bitcoin, diving into smart contract development, and studying various consensus mechanisms. I engage with these technologies to build and test decentralized applications (dApps), experiment with different token standards, and analyze the security and scalability of blockchain networks.</p> <p>In addition to hands-on development, I’m involved in projects that explore the practical applications of blockchain technology and cryptocurrencies. This includes working on projects related to decentralized finance (DeFi), non-fungible tokens (NFTs), and other emerging use cases. I also focus on staying updated with the latest trends and advancements in the blockchain space, participating in community discussions, and contributing to open-source projects that push the boundaries of blockchain innovation.</p> <p>My engagement with the blockchain and crypto community includes attending industry conferences, joining online forums, and collaborating with other enthusiasts and professionals. This active involvement helps me stay informed about the latest developments, regulatory changes, and technological advancements. By combining practical experience with continuous learning and community engagement, I aim to contribute to the evolving landscape of blockchain and cryptocurrency, exploring new possibilities and driving innovation in this dynamic field.</p>
+
+<p>note if you're actually reading this: I rly couldn't care less about crypto, I mean I like the tech and all, but thinking that crypto can just replace FIAT money with its trillion-dollar industry is just a wet dream for tech ppl.</p>
+</div>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<div class="bike_tm_section">
+<div class="bike_tm_skills">
+<div class="container">
+<div class="bike_tm_main_title">
+<span>Skills</span>
+<h3>Experience &amp; Skills</h3>
+</div>
+<div class="inner">
+<div class="left">
+<div class="skills_title">
+<h3>Development Skills</h3>
+</div>
+<div class="list">
+<ul>
+<li>
+<div class="list_inner">
+<span>VMs & Docker - <span class="tm_counter" data-from="0" data-to="95" data-speed="1500">0</span>%</span>
+</div>
+</li>
+<li>
+<div class="list_inner">
+<span>Angular & Svelte - <span class="tm_counter" data-from="0" data-to="90" data-speed="1500">0</span>%</span>
+</div>
+</li>
+<li>
+<div class="list_inner">
+<span>Git/Github - <span class="tm_counter" data-from="0" data-to="85" data-speed="1500">0</span>%</span>
+</div>
+</li>
+<li>
+<div class="list_inner">
+<span>Cloud & DevOps - <span class="tm_counter" data-from="0" data-to="95" data-speed="1500">0</span>%</span>
+</div>
+</li>
+<li>
+<div class="list_inner">
+<span>Flutter - <span class="tm_counter" data-from="0" data-to="95" data-speed="1500">0</span>%</span>
+</div>
+</li>
+<li>
+<div class="list_inner">
+<span>AWS & Azure - <span class="tm_counter" data-from="0" data-to="80" data-speed="1500">0</span>%</span>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="right">
+<div class="skills_title">
+<h3>Language Skills</h3>
+</div>
+<div class="list">
+<ul>
+<li>
+<div class="list_inner">
+<span>English - <span class="tm_counter" data-from="0" data-to="100" data-speed="1500">0</span>% <br>(Fluent)</span>
+</div>
+</li>
+<li>
+<div class="list_inner">
+<span>French - <span class="tm_counter" data-from="0" data-to="90" data-speed="1500">0</span>% <br>(proficient)</span>
+</div>
+</li>
+<li>
+<div class="list_inner">
+<span>Italian - <span class="tm_counter" data-from="0" data-to="40" data-speed="1500">0</span>% <br>(Beginner A2)</span>
+</div>
+</li>
+<li>
+<div class="list_inner">
+<span>Arabic - <span class="tm_counter" data-from="0" data-to="100" data-speed="1500">0</span>% <br>(Native)</span>
+</div>
+</li>
+
+
+<!-- I WATCH ANIME I SWEAR -->
+
+<!-- <li>
+<div class="list_inner">
+<span>Japanese - <span class="tm_counter" data-from="0" data-to="2" data-speed="1500">0</span>%</span>
+</div>
+</li> -->
+
+
+
+<!-- <li> -->
+<!-- <div class="list_inner"> -->
+<!-- <span> - <span class="tm_counter" data-from="0" data-to="90" data-speed="1500">0</span>%</span> -->
+<!-- </div> -->
+<!-- </li> -->
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="bike_tm_section" id="portfolio">
+<div class="bike_tm_portfolio">
+<div class="container">
+<div class="bike_tm_main_title">
+<span>Works</span>
+<!-- <h3>Creative Portfolio</h3> -->
+<h3>Portfolio</h3>
+</div>
+<div class="portfolio_filter">
+<ul>
+<li><a href="#" class="current" data-filter="*">All</a></li>
+<li><a href="#" data-filter=".cyber">Cyber Security</a></li>
+<li><a href="#" data-filter=".ai">AI</a></li>
+<li><a href="#" data-filter=".cloud">Cloud & DevOps</a></li>
+<li><a href="#" data-filter=".mobile">Mobile</a></li>
+<li><a href="#" data-filter=".iot">IoT</a></li>
+<li><a href="#" data-filter=".crypto">Blockchain & Crypto</a></li>
+</ul>
+</div>
+<div class="portfolio_list">
+<ul class="gallery_zoom">
+
+
+
+
+<!-- START -->
+<li class="ai">
+<div class="list_inner">
+<div class="image">
+<img src="img/thumbs/1-1.jpg" alt />
+
+
+
+<div class="main" data-img-url="img/portfolio/glider.jpg"></div>
+</div>
+<div class="overlay"></div>
+<div class="details">
+<h3>Eco Krypton</h3>
+<span>Content</span>
+</div>
+<a class="bike_tm_full_link portfolio_popup" href="#"></a>
+
+<div class="hidden_content">
+<div class="popup_details">
+<div class="main_details">
+<div class="textbox">
+<h2>TO BE DOCUMENTED</h2>
+</div>
+<div class="detailbox">
+<ul>
+
+<span class="first">Category</span>
+<span><a href="#">Simulation</a></span>
+</li>
+<li>
+<span class="first">Date</span>
+<span>Mar, 2024</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="additional_images">
+<ul>
+<li>
+<div class="list_inner">
+<div class="my_image">
+<img src="img/thumbs/4-2.jpg" alt />
+<div class="main" data-img-url="img/portfolio/7.jpg"></div>
+</div>
+</div>
+</li>
+<li>
+<div class="list_inner">
+<div class="my_image">
+<img src="img/thumbs/4-2.jpg" alt />
+<div class="main" data-img-url="img/portfolio/8.jpg"></div>
+</div>
+</div>
+</li>
+<li>
+<div class="list_inner">
+<div class="my_image">
+<img src="img/thumbs/4-2.jpg" alt />
+<div class="main" data-img-url="img/portfolio/9.jpg"></div>
+</div>
+</div>
+</li>
+
+
+
+
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+</li>
+<!-- END -->
+
+
+<!-- NEW BLOG -->
+<li class="cyber">
+    <div class="list_inner">
+    <div class="image">
+    <img src="img/thumbs/1-1.jpg" alt />
+    
+    
+    
+    <div class="main" data-img-url="img/portfolio/pentest.png"></div>
+    </div>
+    <div class="overlay"></div>
+    <div class="details">
+    <h3>Eco Krypton</h3>
+    <span>Content</span>
+    </div>
+    <a class="bike_tm_full_link portfolio_popup" href="#"></a>
+    
+    <div class="hidden_content">
+    <div class="popup_details">
+    <div class="main_details">
+    <div class="textbox">
+<h2>TO BE DOCUMENTED</h2>
+
+    </div>
+    <div class="detailbox">
+    <ul>
+    <li>
+    <span class="first">Category</span>
+    <span><a href="#">SOC<br>Penetration Testing</a></span>
+    </li>
+    <li>
+    <span class="first">Date</span>
+    <span>Oct 22, 2023</span>
+    </li>
+    </ul>
+    </div>
+    </div>
+    <div class="additional_images">
+    <ul>
+    <li>
+    <div class="list_inner">
+    <div class="my_image">
+    <img src="img/thumbs/4-2.jpg" alt />
+    <div class="main" data-img-url="img/portfolio/7.jpg"></div>
+    </div>
+    </div>
+    </li>
+    <li>
+    <div class="list_inner">
+    <div class="my_image">
+    <img src="img/thumbs/4-2.jpg" alt />
+    <div class="main" data-img-url="img/portfolio/8.jpg"></div>
+    </div>
+    </div>
+    </li>
+    <li>
+    <div class="list_inner">
+    <div class="my_image">
+    <img src="img/thumbs/4-2.jpg" alt />
+    <div class="main" data-img-url="img/portfolio/9.jpg"></div>
+    </div>
+    </div>
+    </li>
+    
+    
+    
+    
+    </ul>
+    </div>
+    </div>
+    </div>
+    
+    </div>
+    </li>
+
+
+
+
+
+
+
+<!-- START -->
+<li class="mobile">
+    <div class="list_inner">
+    <div class="image">
+    <img src="img/thumbs/1-1.jpg" alt />
+    
+    
+    
+    <div class="main" data-img-url="img/portfolio/flutterWidget.png"></div>
+    </div>
+    <div class="overlay"></div>
+    <div class="details">
+    <h3>Flutter Notes Widget</h3>
+    <span>Flutter, To-Do App, Note-Taking, Task Management, Widget, Android, iOS, Cross-Platform, Dart, Mobile Development, UI/UX</span>
+    </div>
+    <a class="bike_tm_full_link portfolio_popup" href="#"></a>
+    
+    <div class="hidden_content">
+    <div class="popup_details">
+    <div class="main_details">
+    <div class="textbox">
+    <p>This is a simple yet efficient note-taking app built using Flutter. The app allows users to easily manage their to-do tasks through an intuitive interface. Each task is created as a note, making it easy to organize and track daily activities. The widget-based design ensures smooth performance and offers customizable task categories, reminders, and the ability to mark tasks as completed. With a minimalistic and user-friendly UI, this application aims to streamline task management on both Android and iOS devices.</p>
+    </div>
+    <div class="detailbox">
+    <ul>
+    <li>
+    <span class="first">Category</span>
+    <span><a href="#">Moible</a></span>
+    </li>
+    <li>
+    <span class="first">Date</span>
+    <span>Jan 22, 2024</span>
+    </li>
+    </ul>
+    </div>
+    </div>
+    <div class="additional_images">
+    <ul>
+    <li>
+    <div class="list_inner">
+    <div class="my_image">
+    <img src="img/thumbs/4-2.jpg" alt />
+    <div class="main" data-img-url="img/portfolio/7.jpg"></div>
+    </div>
+    </div>
+    </li>
+    <li>
+    <div class="list_inner">
+    <div class="my_image">
+    <img src="img/thumbs/4-2.jpg" alt />
+    <div class="main" data-img-url="img/portfolio/8.jpg"></div>
+    </div>
+    </div>
+    </li>
+    <li>
+    <div class="list_inner">
+    <div class="my_image">
+    <img src="img/thumbs/4-2.jpg" alt />
+    <div class="main" data-img-url="img/portfolio/9.jpg"></div>
+    </div>
+    </div>
+    </li>
+    
+    
+    
+    
+    </ul>
+    </div>
+    </div>
+    </div>
+    
+    </div>
+    </li>
+    <!-- END -->
+
+
+
+
+
+
+<!-- START -->
+<li class="cyber iot">
+    <div class="list_inner">
+    <div class="image">
+    <img src="img/thumbs/1-1.jpg" alt />
+    
+    
+    
+    <div class="main" data-img-url="img/portfolio/duck.png"></div>
+    </div>
+    <div class="overlay"></div>
+    <div class="details">
+    <h3>DIY RubberDucky</h3>
+    <span>IoT CyberSecurity</span>
+    </div>
+    <a class="bike_tm_full_link portfolio_popup" href="#"></a>
+    
+    <div class="hidden_content">
+    <div class="popup_details">
+    <div class="main_details">
+    <div class="textbox">
+        <h2>TO BE DOCUMENTED</h2>
+    </div>
+    <div class="detailbox">
+    <ul>
+    <li>
+    <span class="first">Category</span>
+    <span><a href="#">IoT+CyberSecurity</a></span>
+    </li>
+    <li>
+    <span class="first">Date</span>
+    <span>Oct 22, 2023</span>
+    </li>
+    </ul>
+    </div>
+    </div>
+    <div class="additional_images">
+    <ul>
+    <li>
+    <div class="list_inner">
+    <div class="my_image">
+    <img src="img/thumbs/4-2.jpg" alt />
+    <div class="main" data-img-url="img/portfolio/7.jpg"></div>
+    </div>
+    </div>
+    </li>
+    <li>
+    <div class="list_inner">
+    <div class="my_image">
+    <img src="img/thumbs/4-2.jpg" alt />
+    <div class="main" data-img-url="img/portfolio/8.jpg"></div>
+    </div>
+    </div>
+    </li>
+    <li>
+    <div class="list_inner">
+    <div class="my_image">
+    <img src="img/thumbs/4-2.jpg" alt />
+    <div class="main" data-img-url="img/portfolio/9.jpg"></div>
+    </div>
+    </div>
+    </li>
+    
+    
+    
+    
+    </ul>
+    </div>
+    </div>
+    </div>
+    
+    </div>
+    </li>
+    <!-- END -->
+
+
+<!-- START -->
+<li class="cloud">
+    <div class="list_inner">
+    <div class="image">
+    <img src="img/thumbs/1-1.jpg" alt />
+    
+    
+    
+    <div class="main" data-img-url="img/portfolio/yacht.png"></div>
+    </div>
+    <div class="overlay"></div>
+    <div class="details">
+    <h3>Eco Krypton</h3>
+    <span>Content gg gg gg </span>
+    </div>
+    <a class="bike_tm_full_link portfolio_popup" href="#"></a>
+    
+    <div class="hidden_content">
+    <div class="popup_details">
+    <div class="main_details">
+    <div class="textbox">
+<h2>TO BE DOCUMENTED</h2>
+    </div>
+    <div class="detailbox">
+    <ul>
+    <li>
+    <span class="first">Category</span>
+    <span><a href="#">DevOps+Docker</a></span>
+    </li>
+    <li>
+    <span class="first">Date</span>
+    <span>Oct 22, 2023</span>
+    </li>
+    </ul>
+    </div>
+    </div>
+    <div class="additional_images">
+    <ul>
+    <li>
+    <div class="list_inner">
+    <div class="my_image">
+    <img src="img/thumbs/4-2.jpg" alt />
+    <div class="main" data-img-url="img/portfolio/7.jpg"></div>
+    </div>
+    </div>
+    </li>
+    <li>
+    <div class="list_inner">
+    <div class="my_image">
+    <img src="img/thumbs/4-2.jpg" alt />
+    <div class="main" data-img-url="img/portfolio/8.jpg"></div>
+    </div>
+    </div>
+    </li>
+    <li>
+    <div class="list_inner">
+    <div class="my_image">
+    <img src="img/thumbs/4-2.jpg" alt />
+    <div class="main" data-img-url="img/portfolio/9.jpg"></div>
+    </div>
+    </div>
+    </li>
+    
+    
+    
+    
+    </ul>
+    </div>
+    </div>
+    </div>
+    
+    </div>
+    </li>
+    <!-- END -->
+
+
+<!-- START -->
+<li class="cloud">
+    <div class="list_inner">
+    <div class="image">
+    <img src="img/thumbs/1-1.jpg" alt />
+    
+    
+    
+    <div class="main" data-img-url="img/portfolio/session.png"></div>
+    </div>
+    <div class="overlay"></div>
+    <div class="details">
+    <h3>Eco Krypton</h3>
+    <span>Content gg gg gg </span>
+    </div>
+    <a class="bike_tm_full_link portfolio_popup" href="#"></a>
+    
+    <div class="hidden_content">
+    <div class="popup_details">
+    <div class="main_details">
+    <div class="textbox">
+<h2>TO BE DOCUMENTED</h2>
+
+    </div>
+    <div class="detailbox">
+    <ul>
+    <li>
+    <span class="first">Category</span>
+    <span><a href="#">Cloud & Productivity</a></span>
+    </li>
+    <li>
+    <span class="first">Date</span>
+    <span>Oct 22, 2023</span>
+    </li>
+    </ul>
+    </div>
+    </div>
+    <div class="additional_images">
+    <ul>
+    <li>
+    <div class="list_inner">
+    <div class="my_image">
+    <img src="img/thumbs/4-2.jpg" alt />
+    <div class="main" data-img-url="img/portfolio/7.jpg"></div>
+    </div>
+    </div>
+    </li>
+    <li>
+    <div class="list_inner">
+    <div class="my_image">
+    <img src="img/thumbs/4-2.jpg" alt />
+    <div class="main" data-img-url="img/portfolio/8.jpg"></div>
+    </div>
+    </div>
+    </li>
+    <li>
+    <div class="list_inner">
+    <div class="my_image">
+    <img src="img/thumbs/4-2.jpg" alt />
+    <div class="main" data-img-url="img/portfolio/9.jpg"></div>
+    </div>
+    </div>
+    </li>
+    
+    
+    
+    
+    </ul>
+    </div>
+    </div>
+    </div>
+    
+    </div>
+    </li>
+    <!-- END -->
+
+
+
+
+<!-- START -->
+<li class="cloud">
+    <div class="list_inner">
+    <div class="image">
+    <img src="img/thumbs/1-1.jpg" alt />
+    
+    
+    
+    <div class="main" data-img-url="img/portfolio/linuxRice.png"></div>
+    </div>
+    <div class="overlay"></div>
+    <div class="details">
+    <h3>Eco Krypton</h3>
+    <span>Content gg gg gg </span>
+    </div>
+    <a class="bike_tm_full_link portfolio_popup" href="#"></a>
+    
+    <div class="hidden_content">
+    <div class="popup_details">
+    <div class="main_details">
+    <div class="textbox">
+<h2>TO BE DOCUMENTED</h2>
+    </div>
+    <div class="detailbox">
+    <ul>
+    <li>
+    <span class="first">Category</span>
+    <span><a href="#">Cloud & Unix</a></span>
+    </li>
+    <li>
+    <span class="first">Date</span>
+    <span>Oct 22, 2023</span>
+    </li>
+    </ul>
+    </div>
+    </div>
+    <div class="additional_images">
+    <ul>
+    <li>
+    <div class="list_inner">
+    <div class="my_image">
+    <img src="img/thumbs/4-2.jpg" alt />
+    <div class="main" data-img-url="img/portfolio/7.jpg"></div>
+    </div>
+    </div>
+    </li>
+    <li>
+    <div class="list_inner">
+    <div class="my_image">
+    <img src="img/thumbs/4-2.jpg" alt />
+    <div class="main" data-img-url="img/portfolio/8.jpg"></div>
+    </div>
+    </div>
+    </li>
+    <li>
+    <div class="list_inner">
+    <div class="my_image">
+    <img src="img/thumbs/4-2.jpg" alt />
+    <div class="main" data-img-url="img/portfolio/9.jpg"></div>
+    </div>
+    </div>
+    </li>
+    
+    
+    
+    
+    </ul>
+    </div>
+    </div>
+    </div>
+    
+    </div>
+    </li>
+    <!-- END -->
+
+<!-- NEW BLOG -->
+
+
+    <li class="crypto">
+        <div class="list_inner">
+        <div class="image">
+        <img src="img/thumbs/1-1.jpg" alt />
+        
+        
+        
+        <div class="main" data-img-url="img/portfolio/crypto.gif"></div>
+        </div>
+        <div class="overlay"></div>
+        <div class="details">
+        <h3>Eco Krypton</h3>
+        <span>Content</span>
+        </div>
+        <a class="bike_tm_full_link portfolio_popup" href="#"></a>
+        
+        <div class="hidden_content">
+        <div class="popup_details">
+        <div class="main_details">
+        <div class="textbox">
+<h2>TO BE DOCUMENTED</h2>
+        </div>
+        <div class="detailbox">
+        <ul>
+        <li>
+        <span class="first">Category</span>
+        <span><a href="#">Crypto & Mobile</a></span>
+        </li>
+        <li>
+        <span class="first">Date</span>
+        <span>Oct 22, 2023</span>
+        </li>
+        </ul>
+        </div>
+        </div>
+        <div class="additional_images">
+        <ul>
+        <li>
+        <div class="list_inner">
+        <div class="my_image">
+        <img src="img/thumbs/4-2.jpg" alt />
+        <div class="main" data-img-url="img/portfolio/7.jpg"></div>
+        </div>
+        </div>
+        </li>
+        <li>
+        <div class="list_inner">
+        <div class="my_image">
+        <img src="img/thumbs/4-2.jpg" alt />
+        <div class="main" data-img-url="img/portfolio/8.jpg"></div>
+        </div>
+        </div>
+        </li>
+        <li>
+        <div class="list_inner">
+        <div class="my_image">
+        <img src="img/thumbs/4-2.jpg" alt />
+        <div class="main" data-img-url="img/portfolio/9.jpg"></div>
+        </div>
+        </div>
+        </li>
+        
+        
+        
+        
+        </ul>
+        </div>
+        </div>
+        </div>
+        
+        </div>
+        </li>
+    
+    
+    
+
+
+<!-- END OF BLOG -->
+
+
+
+<!-- START -->
+<li class="ai">
+    <div class="list_inner">
+    <div class="image">
+    <img src="img/thumbs/1-1.jpg" alt />
+    
+    
+    
+    <div class="main" data-img-url="img/portfolio/sparrow.png"></div>
+    </div>
+    <div class="overlay"></div>
+    <div class="details">
+    <h3>Eco Krypton</h3>
+    <span>Content gg gg gg </span>
+    </div>
+    <a class="bike_tm_full_link portfolio_popup" href="#"></a>
+    
+    <div class="hidden_content">
+    <div class="popup_details">
+    <div class="main_details">
+    <div class="textbox">
+<h2>TO BE DOCUMENTED</h2>
+    </div>
+    <div class="detailbox">
+    <ul>
+    <li>
+    <span class="first">Category</span>
+    <span><a href="#">AI & LLMs</a></span>
+    </li>
+    <li>
+    <span class="first">Date</span>
+    <span>Oct 22, 2023</span>
+    </li>
+    </ul>
+    </div>
+    </div>
+    <div class="additional_images">
+    <ul>
+    <li>
+    <div class="list_inner">
+    <div class="my_image">
+    <img src="img/thumbs/4-2.jpg" alt />
+    <div class="main" data-img-url="img/portfolio/7.jpg"></div>
+    </div>
+    </div>
+    </li>
+    <li>
+    <div class="list_inner">
+    <div class="my_image">
+    <img src="img/thumbs/4-2.jpg" alt />
+    <div class="main" data-img-url="img/portfolio/8.jpg"></div>
+    </div>
+    </div>
+    </li>
+    <li>
+    <div class="list_inner">
+    <div class="my_image">
+    <img src="img/thumbs/4-2.jpg" alt />
+    <div class="main" data-img-url="img/portfolio/9.jpg"></div>
+    </div>
+    </div>
+    </li>
+    
+    
+    
+    
+    </ul>
+    </div>
+    </div>
+    </div>
+    
+    </div>
+    </li>
+    <!-- END -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="bike_tm_section">
+<div class="bike_tm_get_quote">
+<div class="background">
+<!-- <div class="dots" data-img-url="img/dots.jpg"></div> -->
+<div class="overlay"></div>
+</div>
+<div class="content">
+<div class="container">
+<h3 class="title">Need help with a certain project?<br><a style="color: white; text-decoration: underline;" href="#contact">Get in touch!</a></h3>
+<!-- <a class="line_effect" href="/cdn-cgi/l/email-protection#452824372e20312c233c31202428052228242c296b262a28"><span class="__cf_email__" data-cfemail="8be6eaf9e0eeffe2edf2ffeeeae6cbece6eae2e7a5e8e4e6">[email&#160;protected]</span></a> -->
+</div>
+</div>
+<div class="play_button">
+<!-- <a class="popup-youtube" href="https://www.youtube.com/watch?v={LINK HERE}"></a> -->
+</div>
+</div>
+</div>
+
+
+<div class="bike_tm_section">
+<div class="bike_tm_partners">
+<div class="container">
+<div class="partners_list">
+<div class="wrapper">
+<ul class="owl-carousel">
+<li class="item"><a href="#"><img src="img/partners/1.png" alt /></a></li>
+<li class="item"><a href="#"><img src="img/partners/2.png" alt /></a></li>
+<li class="item"><a href="#"><img src="img/partners/3.png" alt /></a></li>
+<li class="item"><a href="#"><img src="img/partners/4.png" alt /></a></li>
+<li class="item"><a href="#"><img src="img/partners/5.png" alt /></a></li>
+<li class="item"><a href="#"><img src="img/partners/6.png" alt /></a></li>
+<li class="item"><a href="#"><img src="img/partners/7.png" alt /></a></li>
+<li class="item"><a href="#"><img src="img/partners/8.png" alt /></a></li>
+</ul>
+<p>Empowering Businesses with Innovation by using <a class="line_effect" href="#">multiple technologies</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="bike_tm_section">
+<div class="bike_tm_testimonials">
+<div class="container">
+<div class="wrapper">
+<div class="left">
+<i class="icon-quote-left"></i>
+<div class="bike_tm_main_title">
+<span>Competitions, CTFs & Hackathons</span>
+<h3>Competitions & Achievements</h3>
+</div>
+<div class="text">
+<p>Participating in CTFs and hackathons has taught me the importance of collaboration and teamwork in problem-solving. These experiences have enhanced my ability to work effectively in diverse teams, where sharing knowledge and combining different skill sets are essential for success.</p>
+</div>
+<div class="bike_tm_button" data-position="left">
+<a class="anchor" href="#contact"><span>Contact Me</span></a>
+</div>
+</div>
+<div class="right">
+<div class="testimonials_list">
+<ul class="owl-carousel">
+
+
+
+<li>
+<div class="list_inner">
+<img src="img/highlight/ctf0.jpg">
+
+<div class="text">
+<!-- <p>Super easy to customise and set up according to your own brand. Additionally, any enquires you may have, you are delightfully greeted by their support customer care.</p> -->
+
+
+</div>
+<div class="details">
+<div class="image">
+<!-- <div class="main" data-img-url="img/testimonials/1.jpg"></div> -->
+</div>
+<div class="info">
+<h3>Hack'fest 2023</h3>
+<span>TOP 10 (SUP'COM)</span>
+</div>
+</div>
+</div>
+</li>
+
+
+
+
+
+
+<li>
+    <div class="list_inner">
+    <img src="img/highlight/ctf1.jpg">
+    
+    <div class="text">
+    <!-- <p>Super easy to customise and set up according to your own brand. Additionally, any enquires you may have, you are delightfully greeted by their support customer care.</p> -->
+    
+    
+    </div>
+    <div class="details">
+    <div class="image">
+    <!-- <div class="main" data-img-url="img/testimonials/1.jpg"></div> -->
+    </div>
+    <div class="info">
+    <h3>Hack'fest 2024</h3>
+    <span>TOP 10 (SUP'COM)</span>
+    </div>
+    </div>
+    </div>
+</li>
+
+<li>
+    <div class="list_inner">
+    <img src="img/highlight/picture.jpg">
+    
+    <div class="text">
+    <!-- <p>Super easy to customise and set up according to your own brand. Additionally, any enquires you may have, you are delightfully greeted by their support customer care.</p> -->
+    
+    
+    </div>
+    <div class="details">
+    <div class="image">
+    <!-- <div class="main" data-img-url="img/testimonials/1.jpg"></div> -->
+    </div>
+    <div class="info">
+    <h3>InfoHackathon</h3>
+    <span>TOP 5</span>
+    </div>
+    </div>
+    </div>
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="bike_tm_section" id="news">
+<div class="bike_tm_news">
+<div class="container">
+<div class="bike_tm_main_title">
+<span>Blog</span>
+<h3>Latest Posts</h3>
+</div>
+<div class="news_list">
+<ul>
+<li>
+<div class="list_inner">
+<div class="image">
+<!-- <img src="img/thumbs/4-3.jpg" alt /> -->
+<!-- <div class="main" data-img-url="img/news/1.jpg"></div> -->
+<a class="bike_tm_full_link" href="#"></a>
+</div>
+<div class="details">
+<div class="meta">
+<p>Oct 26, 20XX in <a class="line_effect" href="#">Hobbies & Lifestyle</a></p>
+</div>
+<h3 class="title"><a class="line_effect_2" href="#">How calisthenics can change your life</a></h3>
+</div>
+
+<div class="news_hidden_details">
+<div class="news_popup_informations">
+<div class="text">
+<p>ToBeDocumented</p>
+</div>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class="list_inner">
+<div class="image">
+<!-- <img src="img/thumbs/4-3.jpg" alt /> -->
+<!-- <div class="main" data-img-url="img/news/2.jpg"></div> -->
+<a class="bike_tm_full_link" href="#"></a>
+</div>
+<div class="details">
+<div class="meta">
+<p>Oct 22, 2023 in <a class="line_effect" href="#">Hobbies & Lifestyle</a></p>
+</div>
+<h3 class="title"><a class="line_effect_2" href="#">How to deal with burnout in infosec</a></h3>
+</div>
+
+<div class="news_hidden_details">
+<div class="news_popup_informations">
+<div class="text">
+<p>ToBeDocumented</p>
+</div>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class="list_inner">
+<div class="image">
+<!-- <img src="img/thumbs/4-3.jpg" alt /> -->
+<!-- <div class="main" data-img-url="img/news/3.jpg"></div> -->
+<a class="bike_tm_full_link" href="#"></a>
+</div>
+<div class="details">
+<div class="meta">
+<p>Oct 20, 2023 in <a class="line_effect" href="#">Hobbies & Lifestyle</a></p>
+</div>
+<h3 class="title"><a class="line_effect_2" href="#">The real definition of Computer Science</a></h3>
+</div>
+
+<div class="news_hidden_details">
+<div class="news_popup_informations">
+<div class="text">
+<p>ToBeDocumented</p>
+</div>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="bike_tm_section">
+<div class="bike_tm_faq">
+<div class="container">
+<div class="bike_tm_main_title">
+<span>FAQ</span>
+<h3>Frequently Asked Questions</h3>
+</div>
+<div class="accordion_wrap">
+<div class="accordion">
+<div class="accordion_header">
+<span class="plus"></span>
+<p>What programming languages do you use?</p>
+</div>
+<div class="accordion_content">
+<p>I am proficient in C++, Java, C, SQL, Python, JavaScript, and Dart for Flutter development. I also have experience with scripting languages for automation in cybersecurity tasks and embedded systems using ESP32 modules.</p>
+</div>
+</div>
+<div class="accordion">
+<div class="accordion_header">
+<span class="plus"></span>
+<p>Do you play CTFs (Capture The Flag)?</p>
+</div>
+<div class="accordion_content">
+<p>Yes, I regularly participate in CTF challenges. They are fun challenges that allow me to hone my skills in areas such as reverse engineering, cryptography, and network security.</p>
+</div>
+</div>
+<div class="accordion">
+<div class="accordion_header">
+<span class="plus"></span>
+<p>What certifications or trainings have you completed?</p>
+</div>
+<div class="accordion_content">
+<p>I’m currently in my final year of engineering, with a focus on cybersecurity. I’ve also completed various courses and challenges on platforms like TryHackMe and HTB, and I’m working on cloud computing and DevSecOps.</p>
+</div>
+</div>
+<div class="accordion">
+<div class="accordion_header">
+<span class="plus"></span>
+<p>What is your preferred development environment?</p>
+</div>
+<div class="accordion_content">
+<p>I prefer working in Linux-based environments and use VSCode with extensions or Neovim with plugins. For automation and DevOps, I use tools like Docker and Jenkins, and for cybersecurity, I rely on nmap, Burp Suite, and other industry-standard tools.</p>
+</div>
+</div>
+<div class="accordion">
+<div class="accordion_header">
+<span class="plus"></span>
+<p>Do you collaborate with teams?</p>
+</div>
+<div class="accordion_content">
+<p>Yes, I enjoy collaborating with teams, especially on DevOps and cybersecurity projects. I have experience working with distributed systems and SOC teams.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="bike_tm_section" id="contact">
+<div class="bike_tm_contact">
+<div class="container">
+<div class="bike_tm_main_title">
+<span>Contact</span>
+<h3>Get in Touch</h3>
+</div>
+<div class="inner">
+<div class="left">
+<ul>
+<li>
+<div class="list_inner">
+<span class="icon"><i class="icon-location"></i></span>
+<div class="info">
+<span>Address:</span>
+<h3>Tunis, Tunisia</h3>
+</div>
+</div>
+</li>
+<li>
+<div class="list_inner">
+<span class="icon"><i>✉</i></span>
+<div class="info">
+<span>Mail:</span>
+<h3><a class="line_effect" >saif.sebai@ensi-uma.tn</span></a></h3>
+</div>
+</div>
+</li>
+<li>
+<div class="list_inner">
+<span class="icon"><i>✆</i></span>
+<div class="info">
+<span>Phone:</span>
+<h3><a class="line_effect" href="#">(+216) 50 666 169</a></h3>
+</div>
+</div>
+</li>
+<li>
+<div class="list_inner">
+<span class="icon"><i>🗨</i></span>
+<div class="info">
+<span>Social:</span>
+<ul class="social">
+<li><h3><a class="line_effect" href="#">Fb.</a></h3></li>
+<li><h3><a class="line_effect" href="#">Tw.</a></h3></li>
+<li><h3><a class="line_effect" href="#">In.</a></h3></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="right">
+<form action="/" method="post" class="contact_form" id="contact_form" autocomplete="off">
+<div class="returnmessage" data-success="Your message has been received, We will contact you soon."></div>
+<div class="empty_notice"><span>Please Fill Required Fields</span></div>
+<div class="first">
+<ul>
+<li>
+<input id="name" type="text" placeholder="Name">
+</li>
+<li>
+<input id="email" type="text" placeholder="Email">
+</li>
+</ul>
+</div>
+<div class="last">
+<textarea id="message" placeholder="Message"></textarea>
+</div>
+<div class="bike_tm_button" data-position="left">
+<a id="send_message" href="#"><span>Send Message</span></a>
+</div>
+
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+
+
+<div class="mouse-cursor cursor-outer"></div>
+<div class="mouse-cursor cursor-inner"></div>
+
+
+<div class="progressbar">
+<a href="#"><span class="text">To Top</span></a>
+<span class="line"></span>
+</div>
+
+</div>
+
+<!-- <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script> -->
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- <script src="js/jquery.js"></script> -->
+
+
+<!--[if lt IE 10]> <script type="text/javascript" src="js/ie8.js"></script> <![endif]-->
+<script src="js/plugins.js"></script>
+<script src="js/init.js"></script>
+
+</body>
+</html>
