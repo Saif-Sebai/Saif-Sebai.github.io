@@ -187,12 +187,12 @@ input[type="button"]{
 
 @font-face {
   font-family: 'fontello';
-  src: url('font/fontello.eot?26650032');
+  /* src: url('font/fontello.eot?26650032');
   src: url('font/fontello.eot?26650032#iefix') format('embedded-opentype'),
        url('font/fontello.woff2?26650032') format('woff2'),
        url('font/fontello.woff?26650032') format('woff'),
        url('font/fontello.ttf?26650032') format('truetype'),
-       url('font/fontello.svg?26650032#fontello') format('svg');
+       url('font/fontello.svg?26650032#fontello') format('svg'); */
   font-weight: normal;
   font-style: normal;
 }
