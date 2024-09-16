@@ -386,12 +386,39 @@ function bike_tm_contact_form(){
 		if(name===''||email===''||message===''){
 			
 			jQuery('div.empty_notice').slideDown(500).delay(2000).slideUp(500);
+			console.log("nice");
 		}
 		else{
+			sendEmailJS();
+			console.log("ok");
+
+			// emailjs.send("service_5rao84e","template_l5cn2h9");
+
+
+			// const btn = document.getElementById('button');
+
+			
+			// .addEventListener('submit', function(event) {
+			// event.preventDefault();
+			// console.log("OK");
+			// btn.value = 'Sending...';
+
+			// const serviceID = 'default_service';
+			// const templateID = 'template_l5cn2h9';
+
+			// emailjs.sendForm(serviceID, templateID, this)
+			// 	.then(() => {
+			// 	btn.value = 'Send Email';
+			// 	alert('Sent!');
+			// 	}, (err) => {
+			// 	btn.value = 'Send Email';
+			// 	alert(JSON.stringify(err));
+			// 	});
+			// });
 			// Returns successful data submission message when the entered information is stored in database.
-			jQuery.post("modal/contact.php",{ ajax_name: name, ajax_email: email, ajax_message:message, ajax_subject: subject}, function(data) {
+			// jQuery.post("modal/contact.php",{ ajax_name: name, ajax_email: email, ajax_message:message, ajax_subject: subject}, function(data) {
 				
-				jQuery(".contact_form .returnmessage").append(data);//Append returned message to message paragraph
+				// jQuery(".contact_form .returnmessage").append(data);//Append returned message to message paragraph
 				
 				
 				if(jQuery(".contact_form .returnmessage span.contact_error").length){
@@ -401,11 +428,11 @@ function bike_tm_contact_form(){
 					jQuery(".contact_form .returnmessage").slideDown(500).delay(4000).slideUp(500);
 				}
 				
-				if(data===""){
-					jQuery("#contact_form")[0].reset();//To reset form fields on success
-				}
+				// if(data===""){
+				// 	jQuery("#contact_form")[0].reset();//To reset form fields on success
+				// }
 				
-			});
+			// });
 		}
 		return false; 
 	});

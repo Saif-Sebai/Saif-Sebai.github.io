@@ -1720,23 +1720,23 @@
 </div>
 <div class="right">
 <form action="/" method="post" class="contact_form" id="contact_form" autocomplete="off">
-<div class="returnmessage" data-success="Your message has been received, We will contact you soon."></div>
+<div class="returnmessage" data-success="Your message has been received."></div>
 <div class="empty_notice"><span>Please Fill Required Fields</span></div>
 <div class="first">
 <ul>
 <li>
-<input id="name" type="text" placeholder="Name">
+<input id="name" type="text" placeholder="Name" name="from_name">
 </li>
 <li>
-<input id="email" type="text" placeholder="Email">
+<input id="email" type="text" placeholder="Email" name="from_mail">
 </li>
 </ul>
 </div>
 <div class="last">
-<textarea id="message" placeholder="Message"></textarea>
+<textarea id="message" placeholder="Message" name="message"></textarea>
 </div>
 <div class="bike_tm_button" data-position="left">
-<a id="send_message" href="#"><span>Send Message</span></a>
+<a id="send_message" href="#contact" onclick="bike_tm_contact_form()"><span type="submit" value="Send">Send Message</span></a>
 </div>
 
 </form>
@@ -1760,6 +1760,8 @@
 
 </div>
 
+
+
 <!-- <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script> -->
 
 <!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> -->
@@ -1770,6 +1772,17 @@
 <!--[if lt IE 10]> <script type="text/javascript" src="js/ie8.js"></script> <![endif]-->
 <script src="js/plugins.js"></script>
 <script src="js/init.js"></script>
+
+<script
+  type="text/javascript"
+  src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js">
+</script>
+
+
+
+
+
+<script src="js/email.js"></script>
 
 </body>
 </html>
