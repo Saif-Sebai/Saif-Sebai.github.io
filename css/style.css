@@ -1423,11 +1423,14 @@ body.resize .bike_tm_mainpart{
 /*---------------------------------------------------*/
 
 .bike_tm_portfolio{
-	width: 100%;
+
+	
+	max-width: 100%;
 	height: auto;
 	clear: both;
 	float: left;
-	padding: 140px 0px 160px 0px;
+	gap: 4rem !important; 
+	/* padding: 140px 0px 160px 0px; */
 }
 .bike_tm_portfolio .portfolio_filter{
 	width: 100%;
@@ -1462,16 +1465,34 @@ body.resize .bike_tm_mainpart{
 	color: var(--blue-color);
 }
 .bike_tm_portfolio .portfolio_list{
+	/* transform: scale(0.2); */
 	width: 100%;
 	height: auto;
-	clear: both;
+	/* clear: both; */
 	float: left;
 	margin-top: 40px;
 }
+
+
 .bike_tm_portfolio .portfolio_list ul{
-	margin: 0px 0px 0px -50px;
+	width: 400%;
+	margin: 0px 0px -200px 50px;
+	padding-left: 20%;
+	min-width: none;
 	list-style-type: none;
 }
+
+@media only screen and (max-width: 600px) {
+	.bike_tm_portfolio .portfolio_list ul{
+		width: 400%;
+		margin: 0px 0px -200px 50px;
+		margin-left: -40% !important;
+		min-width: none;
+		list-style-type: none;
+	}
+  }
+
+
 .bike_tm_portfolio .portfolio_list ul li{
 	margin: 0px 0px 50px 0px;
 	list-style-type: none;

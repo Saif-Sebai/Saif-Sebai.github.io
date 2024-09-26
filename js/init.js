@@ -161,16 +161,23 @@ function bike_tm_modalbox_portfolio(){
 	
 	button.on('click',function(){
 		var element 	= jQuery(this);
-		var parent		= element.closest('li');
+		var parent		= element.closest('div');
 		var image		= parent.find('.image .main').data('img-url');
 		var details 	= parent.find('.hidden_content').html();
 		var info 		= parent.find('.details').html();
 		
 		modalBox.addClass('opened');
+
+
+		// THIS DOES THE HIDDEN CONTENT STUFF
 		modalBox.find('.description_wrap').html(details);
-		modalBox.find('.popup_details').prepend('<div class="top_image"><img src="img/thumbs/4-2.jpg" alt="" /><div class="main" data-img-url="'+image+'"></div></div>');
-		modalBox.find('.popup_details .top_image').after('<div class="portfolio_main_title">'+info+'</div>');	
-		bike_tm_data_images();
+
+
+
+
+		// modalBox.find('.popup_details').prepend('<div class="top_image"><img src="img/thumbs/4-2.jpg" alt="" /><div class="main" data-img-url="'+image+'"></div></div>');
+		// modalBox.find('.popup_details .top_image').after('<div class="portfolio_main_title">'+info+'</div>');	
+		// bike_tm_data_images();
 		return false;
 	});
 }
@@ -198,6 +205,7 @@ function bike_tm_portfolio(){
 				var list		= element.closest('.bike_tm_portfolio').find('.portfolio_list').children('ul');
 				list.isotope({ 
 					filter				: selector,
+					layoutMode: 'fitRows',
 					animationOptions	: {
 						duration			: 750,
 						easing				: 'linear',
