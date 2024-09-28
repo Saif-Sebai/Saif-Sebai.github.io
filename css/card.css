@@ -56,6 +56,12 @@
     width: 90%;
     padding: 1rem;
   }
+  .nft .main h2 {
+    color: rgba(255, 255, 255, 0.81);
+  }
+  .nft .main h3 {
+    color: rgba(255, 255, 255, 0.81);
+  }
   .nft .main .tokenImage {
     border-radius: 0.5rem;
     max-width: 100%;
