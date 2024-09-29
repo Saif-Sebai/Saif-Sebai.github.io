@@ -1482,7 +1482,13 @@ body.resize .bike_tm_mainpart{
 	list-style-type: none;
 }
 
+#afterProjects{
+	margin-top: 300px;
+}
 @media only screen and (max-width: 900px) {
+	#afterProjects{
+		margin-top: -100px;
+	}
 	.bike_tm_portfolio .portfolio_list ul{
 		width: 100%;
 		margin: 0px 0px 0px 50px;
