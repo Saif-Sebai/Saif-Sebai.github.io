@@ -41,6 +41,42 @@
     overflow: hidden;
     transition: 0.5s all;
   }
+
+/* ADDED THIS PART WHEN I WAS USING THE METRO... MIGHT NOT ACTUALLY FIX STUFF... */
+  @media screen and (max-width: 1366px) and (max-height: 768px) and (min-width: 1000px){
+    .nft {
+      min-width: 20px;
+       width: 20rem;
+       /* height: 30rem; */
+       background: linear-gradient(0deg, #12262c 0%, rgba(10, 149, 255, 0.5) 100%);
+     }
+     .nft_container {
+      /* width: 5000px; */
+      /* max-width: 3000px; */
+      zoom:90%;
+      /* transform: scale(0.9); */
+  }
+
+  #afterProjects{
+		margin-top: -20px;
+	}
+	.bike_tm_portfolio .portfolio_list ul{
+ 
+		width: 300%;
+		margin: 0px 0px 0px 50px;
+		margin-left: -50% !important;
+		padding-left: 0%;
+	margin-right: 20%;
+		min-width: none;
+		list-style-type: none;
+	}
+
+
+  }
+
+
+
+
   .nft hr {
     width: 100%;
     border: none;
