@@ -1485,13 +1485,7 @@ body.resize .bike_tm_mainpart{
 	margin-top: 300px;
 }
 
-/* ADDED THIS PART WHEN I WAS USING THE METRO... MIGHT NOT ACTUALLY FIX STUFF... */
-@media screen and (max-width: 1366px) and (max-height: 768px) {
-   .bike_tm_portfolio .portfolio_list ul {
-      zoom: 50%;
-     
-   }
-}
+
 
 
 
